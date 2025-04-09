@@ -22,7 +22,7 @@ This formula takes into account overall activity volume, how recent the work is,
 
 **Top 10 Repos:**
 
-| Rank | Repository | Value        |
+| Rank | Repository | Score       |
 |------|------------|--------------|
 | 1    | **repo476** | 1,819,695.0  |
 | 2    | **repo260** | 571,376.0    |
